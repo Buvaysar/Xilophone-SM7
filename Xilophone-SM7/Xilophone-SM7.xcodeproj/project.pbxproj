@@ -7,68 +7,66 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		766F5B3E29DF6A8C00647175 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 766F5B3D29DF6A8C00647175 /* AppDelegate.swift */; };
-		766F5B4029DF6A8C00647175 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 766F5B3F29DF6A8C00647175 /* SceneDelegate.swift */; };
-		766F5B4229DF6A8C00647175 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 766F5B4129DF6A8C00647175 /* ViewController.swift */; };
-		766F5B4529DF6A8C00647175 /* Main in Resources */ = {isa = PBXBuildFile; fileRef = 766F5B4329DF6A8C00647175 /* Main */; };
-		766F5B4729DF6A9000647175 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 766F5B4629DF6A9000647175 /* Assets.xcassets */; };
-		766F5B4A29DF6A9000647175 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 766F5B4829DF6A9000647175 /* LaunchScreen.storyboard */; };
-		766F5B5529DF6A9000647175 /* Xilophone_SM7Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 766F5B5429DF6A9000647175 /* Xilophone_SM7Tests.swift */; };
-		766F5B5F29DF6A9100647175 /* Xilophone_SM7UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 766F5B5E29DF6A9100647175 /* Xilophone_SM7UITests.swift */; };
-		766F5B6129DF6A9100647175 /* Xilophone_SM7UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 766F5B6029DF6A9100647175 /* Xilophone_SM7UITestsLaunchTests.swift */; };
-		766F5B6E29DF6ADD00647175 /* Sounds in Resources */ = {isa = PBXBuildFile; fileRef = 766F5B6D29DF6ADC00647175 /* Sounds */; };
+		766F5B7C29E017CB00647175 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 766F5B7B29E017CB00647175 /* AppDelegate.swift */; };
+		766F5B7E29E017CB00647175 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 766F5B7D29E017CB00647175 /* SceneDelegate.swift */; };
+		766F5B8029E017CB00647175 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 766F5B7F29E017CB00647175 /* ViewController.swift */; };
+		766F5B8329E017CB00647175 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 766F5B8129E017CB00647175 /* Main.storyboard */; };
+		766F5B8529E017CF00647175 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 766F5B8429E017CF00647175 /* Assets.xcassets */; };
+		766F5B8829E017CF00647175 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 766F5B8629E017CF00647175 /* LaunchScreen.storyboard */; };
+		766F5B9329E017CF00647175 /* Xilophone_SM7Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 766F5B9229E017CF00647175 /* Xilophone_SM7Tests.swift */; };
+		766F5B9D29E017CF00647175 /* Xilophone_SM7UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 766F5B9C29E017CF00647175 /* Xilophone_SM7UITests.swift */; };
+		766F5B9F29E017CF00647175 /* Xilophone_SM7UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 766F5B9E29E017CF00647175 /* Xilophone_SM7UITestsLaunchTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		766F5B5129DF6A9000647175 /* PBXContainerItemProxy */ = {
+		766F5B8F29E017CF00647175 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 766F5B3229DF6A8C00647175 /* Project object */;
+			containerPortal = 766F5B7029E017CB00647175 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 766F5B3929DF6A8C00647175;
+			remoteGlobalIDString = 766F5B7729E017CB00647175;
 			remoteInfo = "Xilophone-SM7";
 		};
-		766F5B5B29DF6A9100647175 /* PBXContainerItemProxy */ = {
+		766F5B9929E017CF00647175 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 766F5B3229DF6A8C00647175 /* Project object */;
+			containerPortal = 766F5B7029E017CB00647175 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 766F5B3929DF6A8C00647175;
+			remoteGlobalIDString = 766F5B7729E017CB00647175;
 			remoteInfo = "Xilophone-SM7";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		766F5B3A29DF6A8C00647175 /* Xilophone-SM7.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Xilophone-SM7.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		766F5B3D29DF6A8C00647175 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		766F5B3F29DF6A8C00647175 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		766F5B4129DF6A8C00647175 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		766F5B4429DF6A8C00647175 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = Base; path = Base.lproj/Main; sourceTree = "<group>"; };
-		766F5B4629DF6A9000647175 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		766F5B4929DF6A9000647175 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		766F5B4B29DF6A9000647175 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		766F5B5029DF6A9000647175 /* Xilophone-SM7Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Xilophone-SM7Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		766F5B5429DF6A9000647175 /* Xilophone_SM7Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Xilophone_SM7Tests.swift; sourceTree = "<group>"; };
-		766F5B5A29DF6A9100647175 /* Xilophone-SM7UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Xilophone-SM7UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		766F5B5E29DF6A9100647175 /* Xilophone_SM7UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Xilophone_SM7UITests.swift; sourceTree = "<group>"; };
-		766F5B6029DF6A9100647175 /* Xilophone_SM7UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Xilophone_SM7UITestsLaunchTests.swift; sourceTree = "<group>"; };
-		766F5B6D29DF6ADC00647175 /* Sounds */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Sounds; sourceTree = "<group>"; };
+		766F5B7829E017CB00647175 /* Xilophone-SM7.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Xilophone-SM7.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		766F5B7B29E017CB00647175 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		766F5B7D29E017CB00647175 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		766F5B7F29E017CB00647175 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		766F5B8229E017CB00647175 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		766F5B8429E017CF00647175 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		766F5B8729E017CF00647175 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		766F5B8929E017CF00647175 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		766F5B8E29E017CF00647175 /* Xilophone-SM7Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Xilophone-SM7Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		766F5B9229E017CF00647175 /* Xilophone_SM7Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Xilophone_SM7Tests.swift; sourceTree = "<group>"; };
+		766F5B9829E017CF00647175 /* Xilophone-SM7UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Xilophone-SM7UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		766F5B9C29E017CF00647175 /* Xilophone_SM7UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Xilophone_SM7UITests.swift; sourceTree = "<group>"; };
+		766F5B9E29E017CF00647175 /* Xilophone_SM7UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Xilophone_SM7UITestsLaunchTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		766F5B3729DF6A8C00647175 /* Frameworks */ = {
+		766F5B7529E017CB00647175 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		766F5B4D29DF6A9000647175 /* Frameworks */ = {
+		766F5B8B29E017CF00647175 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		766F5B5729DF6A9100647175 /* Frameworks */ = {
+		766F5B9529E017CF00647175 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -78,54 +76,53 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		766F5B3129DF6A8C00647175 = {
+		766F5B6F29E017CB00647175 = {
 			isa = PBXGroup;
 			children = (
-				766F5B3C29DF6A8C00647175 /* Xilophone-SM7 */,
-				766F5B5329DF6A9000647175 /* Xilophone-SM7Tests */,
-				766F5B5D29DF6A9100647175 /* Xilophone-SM7UITests */,
-				766F5B3B29DF6A8C00647175 /* Products */,
+				766F5B7A29E017CB00647175 /* Xilophone-SM7 */,
+				766F5B9129E017CF00647175 /* Xilophone-SM7Tests */,
+				766F5B9B29E017CF00647175 /* Xilophone-SM7UITests */,
+				766F5B7929E017CB00647175 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		766F5B3B29DF6A8C00647175 /* Products */ = {
+		766F5B7929E017CB00647175 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				766F5B3A29DF6A8C00647175 /* Xilophone-SM7.app */,
-				766F5B5029DF6A9000647175 /* Xilophone-SM7Tests.xctest */,
-				766F5B5A29DF6A9100647175 /* Xilophone-SM7UITests.xctest */,
+				766F5B7829E017CB00647175 /* Xilophone-SM7.app */,
+				766F5B8E29E017CF00647175 /* Xilophone-SM7Tests.xctest */,
+				766F5B9829E017CF00647175 /* Xilophone-SM7UITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		766F5B3C29DF6A8C00647175 /* Xilophone-SM7 */ = {
+		766F5B7A29E017CB00647175 /* Xilophone-SM7 */ = {
 			isa = PBXGroup;
 			children = (
-				766F5B3D29DF6A8C00647175 /* AppDelegate.swift */,
-				766F5B3F29DF6A8C00647175 /* SceneDelegate.swift */,
-				766F5B4129DF6A8C00647175 /* ViewController.swift */,
-				766F5B4329DF6A8C00647175 /* Main */,
-				766F5B4629DF6A9000647175 /* Assets.xcassets */,
-				766F5B4829DF6A9000647175 /* LaunchScreen.storyboard */,
-				766F5B4B29DF6A9000647175 /* Info.plist */,
-				766F5B6D29DF6ADC00647175 /* Sounds */,
+				766F5B7B29E017CB00647175 /* AppDelegate.swift */,
+				766F5B7D29E017CB00647175 /* SceneDelegate.swift */,
+				766F5B7F29E017CB00647175 /* ViewController.swift */,
+				766F5B8129E017CB00647175 /* Main.storyboard */,
+				766F5B8429E017CF00647175 /* Assets.xcassets */,
+				766F5B8629E017CF00647175 /* LaunchScreen.storyboard */,
+				766F5B8929E017CF00647175 /* Info.plist */,
 			);
 			path = "Xilophone-SM7";
 			sourceTree = "<group>";
 		};
-		766F5B5329DF6A9000647175 /* Xilophone-SM7Tests */ = {
+		766F5B9129E017CF00647175 /* Xilophone-SM7Tests */ = {
 			isa = PBXGroup;
 			children = (
-				766F5B5429DF6A9000647175 /* Xilophone_SM7Tests.swift */,
+				766F5B9229E017CF00647175 /* Xilophone_SM7Tests.swift */,
 			);
 			path = "Xilophone-SM7Tests";
 			sourceTree = "<group>";
 		};
-		766F5B5D29DF6A9100647175 /* Xilophone-SM7UITests */ = {
+		766F5B9B29E017CF00647175 /* Xilophone-SM7UITests */ = {
 			isa = PBXGroup;
 			children = (
-				766F5B5E29DF6A9100647175 /* Xilophone_SM7UITests.swift */,
-				766F5B6029DF6A9100647175 /* Xilophone_SM7UITestsLaunchTests.swift */,
+				766F5B9C29E017CF00647175 /* Xilophone_SM7UITests.swift */,
+				766F5B9E29E017CF00647175 /* Xilophone_SM7UITestsLaunchTests.swift */,
 			);
 			path = "Xilophone-SM7UITests";
 			sourceTree = "<group>";
@@ -133,13 +130,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		766F5B3929DF6A8C00647175 /* Xilophone-SM7 */ = {
+		766F5B7729E017CB00647175 /* Xilophone-SM7 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 766F5B6429DF6A9100647175 /* Build configuration list for PBXNativeTarget "Xilophone-SM7" */;
+			buildConfigurationList = 766F5BA229E017CF00647175 /* Build configuration list for PBXNativeTarget "Xilophone-SM7" */;
 			buildPhases = (
-				766F5B3629DF6A8C00647175 /* Sources */,
-				766F5B3729DF6A8C00647175 /* Frameworks */,
-				766F5B3829DF6A8C00647175 /* Resources */,
+				766F5B7429E017CB00647175 /* Sources */,
+				766F5B7529E017CB00647175 /* Frameworks */,
+				766F5B7629E017CB00647175 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -147,69 +144,69 @@
 			);
 			name = "Xilophone-SM7";
 			productName = "Xilophone-SM7";
-			productReference = 766F5B3A29DF6A8C00647175 /* Xilophone-SM7.app */;
+			productReference = 766F5B7829E017CB00647175 /* Xilophone-SM7.app */;
 			productType = "com.apple.product-type.application";
 		};
-		766F5B4F29DF6A9000647175 /* Xilophone-SM7Tests */ = {
+		766F5B8D29E017CF00647175 /* Xilophone-SM7Tests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 766F5B6729DF6A9100647175 /* Build configuration list for PBXNativeTarget "Xilophone-SM7Tests" */;
+			buildConfigurationList = 766F5BA529E017CF00647175 /* Build configuration list for PBXNativeTarget "Xilophone-SM7Tests" */;
 			buildPhases = (
-				766F5B4C29DF6A9000647175 /* Sources */,
-				766F5B4D29DF6A9000647175 /* Frameworks */,
-				766F5B4E29DF6A9000647175 /* Resources */,
+				766F5B8A29E017CF00647175 /* Sources */,
+				766F5B8B29E017CF00647175 /* Frameworks */,
+				766F5B8C29E017CF00647175 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				766F5B5229DF6A9000647175 /* PBXTargetDependency */,
+				766F5B9029E017CF00647175 /* PBXTargetDependency */,
 			);
 			name = "Xilophone-SM7Tests";
 			productName = "Xilophone-SM7Tests";
-			productReference = 766F5B5029DF6A9000647175 /* Xilophone-SM7Tests.xctest */;
+			productReference = 766F5B8E29E017CF00647175 /* Xilophone-SM7Tests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		766F5B5929DF6A9100647175 /* Xilophone-SM7UITests */ = {
+		766F5B9729E017CF00647175 /* Xilophone-SM7UITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 766F5B6A29DF6A9100647175 /* Build configuration list for PBXNativeTarget "Xilophone-SM7UITests" */;
+			buildConfigurationList = 766F5BA829E017CF00647175 /* Build configuration list for PBXNativeTarget "Xilophone-SM7UITests" */;
 			buildPhases = (
-				766F5B5629DF6A9100647175 /* Sources */,
-				766F5B5729DF6A9100647175 /* Frameworks */,
-				766F5B5829DF6A9100647175 /* Resources */,
+				766F5B9429E017CF00647175 /* Sources */,
+				766F5B9529E017CF00647175 /* Frameworks */,
+				766F5B9629E017CF00647175 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				766F5B5C29DF6A9100647175 /* PBXTargetDependency */,
+				766F5B9A29E017CF00647175 /* PBXTargetDependency */,
 			);
 			name = "Xilophone-SM7UITests";
 			productName = "Xilophone-SM7UITests";
-			productReference = 766F5B5A29DF6A9100647175 /* Xilophone-SM7UITests.xctest */;
+			productReference = 766F5B9829E017CF00647175 /* Xilophone-SM7UITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		766F5B3229DF6A8C00647175 /* Project object */ = {
+		766F5B7029E017CB00647175 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1420;
 				LastUpgradeCheck = 1420;
 				TargetAttributes = {
-					766F5B3929DF6A8C00647175 = {
+					766F5B7729E017CB00647175 = {
 						CreatedOnToolsVersion = 14.2;
 					};
-					766F5B4F29DF6A9000647175 = {
+					766F5B8D29E017CF00647175 = {
 						CreatedOnToolsVersion = 14.2;
-						TestTargetID = 766F5B3929DF6A8C00647175;
+						TestTargetID = 766F5B7729E017CB00647175;
 					};
-					766F5B5929DF6A9100647175 = {
+					766F5B9729E017CF00647175 = {
 						CreatedOnToolsVersion = 14.2;
-						TestTargetID = 766F5B3929DF6A8C00647175;
+						TestTargetID = 766F5B7729E017CB00647175;
 					};
 				};
 			};
-			buildConfigurationList = 766F5B3529DF6A8C00647175 /* Build configuration list for PBXProject "Xilophone-SM7" */;
+			buildConfigurationList = 766F5B7329E017CB00647175 /* Build configuration list for PBXProject "Xilophone-SM7" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -217,38 +214,37 @@
 				en,
 				Base,
 			);
-			mainGroup = 766F5B3129DF6A8C00647175;
-			productRefGroup = 766F5B3B29DF6A8C00647175 /* Products */;
+			mainGroup = 766F5B6F29E017CB00647175;
+			productRefGroup = 766F5B7929E017CB00647175 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				766F5B3929DF6A8C00647175 /* Xilophone-SM7 */,
-				766F5B4F29DF6A9000647175 /* Xilophone-SM7Tests */,
-				766F5B5929DF6A9100647175 /* Xilophone-SM7UITests */,
+				766F5B7729E017CB00647175 /* Xilophone-SM7 */,
+				766F5B8D29E017CF00647175 /* Xilophone-SM7Tests */,
+				766F5B9729E017CF00647175 /* Xilophone-SM7UITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		766F5B3829DF6A8C00647175 /* Resources */ = {
+		766F5B7629E017CB00647175 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				766F5B4A29DF6A9000647175 /* LaunchScreen.storyboard in Resources */,
-				766F5B4729DF6A9000647175 /* Assets.xcassets in Resources */,
-				766F5B6E29DF6ADD00647175 /* Sounds in Resources */,
-				766F5B4529DF6A8C00647175 /* Main in Resources */,
+				766F5B8829E017CF00647175 /* LaunchScreen.storyboard in Resources */,
+				766F5B8529E017CF00647175 /* Assets.xcassets in Resources */,
+				766F5B8329E017CB00647175 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		766F5B4E29DF6A9000647175 /* Resources */ = {
+		766F5B8C29E017CF00647175 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		766F5B5829DF6A9100647175 /* Resources */ = {
+		766F5B9629E017CF00647175 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -258,61 +254,61 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		766F5B3629DF6A8C00647175 /* Sources */ = {
+		766F5B7429E017CB00647175 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				766F5B4229DF6A8C00647175 /* ViewController.swift in Sources */,
-				766F5B3E29DF6A8C00647175 /* AppDelegate.swift in Sources */,
-				766F5B4029DF6A8C00647175 /* SceneDelegate.swift in Sources */,
+				766F5B8029E017CB00647175 /* ViewController.swift in Sources */,
+				766F5B7C29E017CB00647175 /* AppDelegate.swift in Sources */,
+				766F5B7E29E017CB00647175 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		766F5B4C29DF6A9000647175 /* Sources */ = {
+		766F5B8A29E017CF00647175 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				766F5B5529DF6A9000647175 /* Xilophone_SM7Tests.swift in Sources */,
+				766F5B9329E017CF00647175 /* Xilophone_SM7Tests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		766F5B5629DF6A9100647175 /* Sources */ = {
+		766F5B9429E017CF00647175 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				766F5B5F29DF6A9100647175 /* Xilophone_SM7UITests.swift in Sources */,
-				766F5B6129DF6A9100647175 /* Xilophone_SM7UITestsLaunchTests.swift in Sources */,
+				766F5B9D29E017CF00647175 /* Xilophone_SM7UITests.swift in Sources */,
+				766F5B9F29E017CF00647175 /* Xilophone_SM7UITestsLaunchTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		766F5B5229DF6A9000647175 /* PBXTargetDependency */ = {
+		766F5B9029E017CF00647175 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 766F5B3929DF6A8C00647175 /* Xilophone-SM7 */;
-			targetProxy = 766F5B5129DF6A9000647175 /* PBXContainerItemProxy */;
+			target = 766F5B7729E017CB00647175 /* Xilophone-SM7 */;
+			targetProxy = 766F5B8F29E017CF00647175 /* PBXContainerItemProxy */;
 		};
-		766F5B5C29DF6A9100647175 /* PBXTargetDependency */ = {
+		766F5B9A29E017CF00647175 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 766F5B3929DF6A8C00647175 /* Xilophone-SM7 */;
-			targetProxy = 766F5B5B29DF6A9100647175 /* PBXContainerItemProxy */;
+			target = 766F5B7729E017CB00647175 /* Xilophone-SM7 */;
+			targetProxy = 766F5B9929E017CF00647175 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		766F5B4329DF6A8C00647175 /* Main */ = {
+		766F5B8129E017CB00647175 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				766F5B4429DF6A8C00647175 /* Base */,
+				766F5B8229E017CB00647175 /* Base */,
 			);
-			name = Main;
+			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		766F5B4829DF6A9000647175 /* LaunchScreen.storyboard */ = {
+		766F5B8629E017CF00647175 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				766F5B4929DF6A9000647175 /* Base */,
+				766F5B8729E017CF00647175 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -320,7 +316,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		766F5B6229DF6A9100647175 /* Debug */ = {
+		766F5BA029E017CF00647175 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -380,7 +376,7 @@
 			};
 			name = Debug;
 		};
-		766F5B6329DF6A9100647175 /* Release */ = {
+		766F5BA129E017CF00647175 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -434,7 +430,7 @@
 			};
 			name = Release;
 		};
-		766F5B6529DF6A9100647175 /* Debug */ = {
+		766F5BA329E017CF00647175 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -449,6 +445,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -456,13 +453,16 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mayrbek.Xilophone-SM7";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
-		766F5B6629DF6A9100647175 /* Release */ = {
+		766F5BA429E017CF00647175 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -477,6 +477,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -484,13 +485,16 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mayrbek.Xilophone-SM7";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
-		766F5B6829DF6A9100647175 /* Debug */ = {
+		766F5BA629E017CF00647175 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -510,7 +514,7 @@
 			};
 			name = Debug;
 		};
-		766F5B6929DF6A9100647175 /* Release */ = {
+		766F5BA729E017CF00647175 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -530,7 +534,7 @@
 			};
 			name = Release;
 		};
-		766F5B6B29DF6A9100647175 /* Debug */ = {
+		766F5BA929E017CF00647175 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -548,7 +552,7 @@
 			};
 			name = Debug;
 		};
-		766F5B6C29DF6A9100647175 /* Release */ = {
+		766F5BAA29E017CF00647175 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -569,43 +573,43 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		766F5B3529DF6A8C00647175 /* Build configuration list for PBXProject "Xilophone-SM7" */ = {
+		766F5B7329E017CB00647175 /* Build configuration list for PBXProject "Xilophone-SM7" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				766F5B6229DF6A9100647175 /* Debug */,
-				766F5B6329DF6A9100647175 /* Release */,
+				766F5BA029E017CF00647175 /* Debug */,
+				766F5BA129E017CF00647175 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		766F5B6429DF6A9100647175 /* Build configuration list for PBXNativeTarget "Xilophone-SM7" */ = {
+		766F5BA229E017CF00647175 /* Build configuration list for PBXNativeTarget "Xilophone-SM7" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				766F5B6529DF6A9100647175 /* Debug */,
-				766F5B6629DF6A9100647175 /* Release */,
+				766F5BA329E017CF00647175 /* Debug */,
+				766F5BA429E017CF00647175 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		766F5B6729DF6A9100647175 /* Build configuration list for PBXNativeTarget "Xilophone-SM7Tests" */ = {
+		766F5BA529E017CF00647175 /* Build configuration list for PBXNativeTarget "Xilophone-SM7Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				766F5B6829DF6A9100647175 /* Debug */,
-				766F5B6929DF6A9100647175 /* Release */,
+				766F5BA629E017CF00647175 /* Debug */,
+				766F5BA729E017CF00647175 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		766F5B6A29DF6A9100647175 /* Build configuration list for PBXNativeTarget "Xilophone-SM7UITests" */ = {
+		766F5BA829E017CF00647175 /* Build configuration list for PBXNativeTarget "Xilophone-SM7UITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				766F5B6B29DF6A9100647175 /* Debug */,
-				766F5B6C29DF6A9100647175 /* Release */,
+				766F5BA929E017CF00647175 /* Debug */,
+				766F5BAA29E017CF00647175 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 766F5B3229DF6A8C00647175 /* Project object */;
+	rootObject = 766F5B7029E017CB00647175 /* Project object */;
 }
