@@ -31,6 +31,9 @@
                                                 <state key="normal" title="B">
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
+                                                <connections>
+                                                    <action selector="ButtonTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Dby-KC-xtd"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                         <constraints>
@@ -51,6 +54,9 @@
                                                 <state key="normal" title="A">
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
+                                                <connections>
+                                                    <action selector="ButtonTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="CkS-ER-NBN"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                         <constraints>
@@ -72,6 +78,9 @@
                                                 <state key="normal" title="G">
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
+                                                <connections>
+                                                    <action selector="ButtonTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="ljX-LP-Brd"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                         <constraints>
@@ -92,6 +101,9 @@
                                                 <state key="normal" title="F">
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
+                                                <connections>
+                                                    <action selector="ButtonTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Zl5-af-2LS"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                         <constraints>
@@ -112,6 +124,9 @@
                                                 <state key="normal" title="E">
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
+                                                <connections>
+                                                    <action selector="ButtonTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Xv7-WO-QPP"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                         <constraints>
@@ -132,6 +147,9 @@
                                                 <state key="normal" title="D">
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
+                                                <connections>
+                                                    <action selector="ButtonTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="tkB-DS-3eE"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                         <constraints>
@@ -152,6 +170,9 @@
                                                 <state key="normal" title="C">
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
+                                                <connections>
+                                                    <action selector="ButtonTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Njs-Eh-uft"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                         <constraints>
